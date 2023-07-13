@@ -5,12 +5,11 @@ Im Erik from Northern Virginia, I possess the ability to analyze complex problem
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriklauni&hide=contribs,prs)
 
 ### Hi there 👋, Erik Launi
-#### Design and Cybersecurity 
-![Design and Cybersecurity ](https://github.com/eriklauni)
+![](https://github.com/eriklauni)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Azure/Python/Security Audits
 
 - 🔭 I’m currently working on Google Cybersecurity Cert. 
 - 🌱 I’m currently learning Northern, VA 
@@ -19,5 +18,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 📫 How to reach me: Insta-elaw31 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eriklauni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Erik Launi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elaw31/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/eriklauni)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eriklauni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/erik-launi-a859aaa3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/elaw31/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/eriklauni)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=eriklauni)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=eriklauni)  
+
+![Profile views](https://gpvc.arturio.dev/eriklauni)  
