@@ -54,7 +54,7 @@ def merge(left, right):
             left_index += 1
         else:
             merged.append(right[right_index])
-            right_index += 1
+            right_index += 1 
 
     # Append remaining elements, if any
     while left_index < len(left):
@@ -66,9 +66,3 @@ def merge(left, right):
         right_index += 1
 
     return merged
-
-
-# Test the merge_sort function
-arr = [7, 2, 1, 6, 8, 5, 3, 4]
-sorted_arr = merge_sort(arr)
-print(sorted_arr)
